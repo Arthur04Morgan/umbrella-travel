@@ -1,0 +1,12 @@
+{
+  "title": "Umbrella Corporation — подорожі світом",
+  "description": "Допомагає мандрівникам обрати регіон і країну, запланувати поїздку та залишити відгук у зручному туристичному інтерфейсі.",
+  "language": "uk",
+  "robots": {
+    "index": true
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
