@@ -599,7 +599,7 @@ export default function App() {
       setLoading(false)
       setNotice("")
       window.scrollTo(0, 0)
-    }, 5000)
+    }, 500)
   }
   const chooseRegion = (name: string) => {
     const firstCountry = featuredCountries[name][0]
